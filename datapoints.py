@@ -1,4 +1,3 @@
-# from pydantic import BaseModel
 from  pyspark.sql.types import *
 
 class SchemaMasterClass():
