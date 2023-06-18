@@ -1,0 +1,9 @@
+/_envs
+/__pycache__
+/.pybuilder
+/docs
+/src
+/target
+build.py
+pyproject.toml
+setup.py
